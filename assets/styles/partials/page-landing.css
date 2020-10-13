@@ -1,6 +1,6 @@
 
 #page-landing{
-    background-color: var(--color-primary);
+    background: linear-gradient(529.54deg, rgb(211, 65, 40) 0%, rgb(58, 5, 58) 100%);
 }
 
 #page-landing #container{
